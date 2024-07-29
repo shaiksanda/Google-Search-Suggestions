@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.arrow {
+  width: 20px;
+  height: 20px;
+}
+
+p {
+  margin: 5px;
+  padding: 0;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+}
